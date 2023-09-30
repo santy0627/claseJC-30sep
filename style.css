@@ -42,7 +42,6 @@ nav{
 .list__element:hover{
     transform: scale(1.3);
     transition: .3s ease all;
-
 }
 
 .list__enlace{
@@ -76,7 +75,7 @@ nav{
 
 .container{
     width: 100%;
-    height: 80%;
+    height: 90.9vh;
     background-image: url(./img/bg.jpg);
     background-size: cover;
     display: inline-flex;
